@@ -1,0 +1,8 @@
+{
+  "name": "The Twelve",
+  "description": "Modern, creative websites featuring seamless animations and uniquely integrated testimonials for a distinguished and engaging digital presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
